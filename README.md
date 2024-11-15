@@ -1,2 +1,7 @@
 # app-dev
-My first repository
+### FAVORITE  MOVIES###
+ 
+*SPONGEBOB SQUARE PANTS*
+*DORA THE EXPLORER*
+*BEN 10*
+
